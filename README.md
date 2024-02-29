@@ -1,6 +1,13 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedEl-Tabei&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 <!--
+
+### Hi there 👋
+
 **MohamedEl-Tabei/MohamedEl-Tabei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
