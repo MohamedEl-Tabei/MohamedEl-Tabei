@@ -17,7 +17,7 @@
 ###
 ## 🔗 Projects
   
-<!--[![chatapp](https://img.shields.io/badge/CHATAPP-white?style=for-the-badge&logo=&logoColor=white)](https://chatapp-izc9.onrender.com/)-->
+[![chatapp](https://img.shields.io/badge/CHATAPP-1c264e?style=for-the-badge&logo=&logoColor=white)](https://chatapp-izc9.onrender.com/)
 [![effect](https://img.shields.io/badge/EFFECT-2dbab3?style=for-the-badge&logo=&logoColor=white)](https://effect-ca42.onrender.com/)
  <br /><br /><br />
 
