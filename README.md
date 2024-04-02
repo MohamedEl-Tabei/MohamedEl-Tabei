@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotndet&logoColor=white&style=for-the-badge" height="40" alt="dot-net logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootsdtrap&logoColor=white&style=for-the-badge" height="40" alt="bootstrap logo"  />
