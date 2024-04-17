@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedEl-Tabei&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
 ## 🛠 Code with
 <div align="left">
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotndet&logoColor=white&style=for-the-badge" height="40" alt="dot-net logo"  />
@@ -14,30 +18,21 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Socket.io-383838?logo=sockdetdotio&logoColor=white&style=for-the-badge" height="40" alt="socketio logo"  />  
 </div>
+<br />
 
-<h1></h1>
-
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedEl-Tabei&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
+## 🔗 Links
   
-
-###
-## 🔗 Projects
-  
-[![chatapp](https://img.shields.io/badge/CHATAPP-1c264e?style=for-the-badge&logo=&logoColor=white)](https://chatapp-izc9.onrender.com/)
-[![effect](https://img.shields.io/badge/EFFECT-2dbab3?style=for-the-badge&logo=&logoColor=white)](https://effect-kin5.onrender.com)
- <br /><br /><br />
-
-  
+[<img src="https://img.shields.io/badge/hackerrank-383838?logo=hackerrank&logoColor=2ec866&style=for-the-badge" height="40" alt="hackerrank logo"  />  ](https://www.hackerrank.com/profile/mohamedeltab33y)
+ <br /> 
  <h1 ></h1>
  <h3 align="center">
   MOHAMEDELTAB33Y@GMAIL.COM
  </h3>
-
+ <h1 ></h1>  
+ 
+[<img src="https://img.shields.io/badge/Project (2) ChatApp-1c264e?logo=&logoColor=2ec866&style=for-the-badge" height="40" alt="ChatApp logo"  />](https://chatapp-izc9.onrender.com/)
+[<img src="https://img.shields.io/badge/Project (1) EFFECT-2dbab3?logo=&logoColor=2ec866&style=for-the-badge" height="40" alt="Effect logo"  />](https://effect-kin5.onrender.com)
+<br />
 <!--
 
 ### Hi there 👋
