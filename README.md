@@ -21,18 +21,23 @@
 <br />
 
 ## 🔗 Links
-  
+
 [<img src="https://img.shields.io/badge/hackerrank-383838?logo=hackerrank&logoColor=2ec866&style=for-the-badge" height="40" alt="hackerrank logo"  />  ](https://www.hackerrank.com/profile/mohamedeltab33y)
- <br /> 
+
+<br />
+
+## 🚀 Projects
+
+[<img src="https://img.shields.io/badge/2-gray?logo=&logoColor=2ec866&style=for-the-badge" height="40" alt="ChatApp logo"  /><img src="https://img.shields.io/badge/ChatApp-1c264e?logo=&logoColor=2ec866&style=for-the-badge" height="40" alt="ChatApp logo"  />](https://chatapp-izc9.onrender.com/)
+ <img width="12" />
+[<img src="https://img.shields.io/badge/1-gray?logo=&logoColor=2ec866&style=for-the-badge" height="40" alt="ChatApp logo"  /><img src="https://img.shields.io/badge/EFFECT-2dbab3?logo=&logoColor=2ec866&style=for-the-badge" height="40" alt="Effect logo"  />](https://effect-kin5.onrender.com)
+<br />
  <h1 ></h1>
  <h3 align="center">
   MOHAMEDELTAB33Y@GMAIL.COM
  </h3>
- <h1 ></h1>  
  
-[<img src="https://img.shields.io/badge/Project (2) ChatApp-1c264e?logo=&logoColor=2ec866&style=for-the-badge" height="40" alt="ChatApp logo"  />](https://chatapp-izc9.onrender.com/)
-[<img src="https://img.shields.io/badge/Project (1) EFFECT-2dbab3?logo=&logoColor=2ec866&style=for-the-badge" height="40" alt="Effect logo"  />](https://effect-kin5.onrender.com)
-<br />
+
 <!--
 
 ### Hi there 👋
