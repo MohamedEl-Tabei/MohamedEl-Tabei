@@ -15,6 +15,8 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongdodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
   <img width="12" />
+  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsdoftsqlserver&logoColor=white&style=for-the-badge" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodeddotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=readct&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
