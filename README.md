@@ -40,6 +40,8 @@
 [<img src="https://img.shields.io/badge/ChatApp-1c264e?logo=&logoColor=2ec866&style=for-the-badge" height="40" alt="ChatApp logo"  />](https://chatapp-izc9.onrender.com/)
  <img width="12" />
 [<img src="https://img.shields.io/badge/EFFECT-2dbab3?logo=&logoColor=2ec866&style=for-the-badge" height="40" alt="Effect logo"  />](https://effect-kin5.onrender.com)
+ <img width="12" />
+[<img src="https://img.shields.io/badge/Playground-383838?logo=&logoColor=2ec866&style=for-the-badge" height="40" alt="ChatApp logo"  />](https://playground-n5re.onrender.com/)
 <br />
  <h1 ></h1>
  <h3 align="center">
