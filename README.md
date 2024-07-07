@@ -38,8 +38,8 @@
 [<img src="https://img.shields.io/badge/leetcode-383838?logo=Leetcode&logoColor=ffa116&style=for-the-badge" height="40" alt="hackerrank logo"  />](https://leetcode.com/u/mohamedeltab33y/)
 <br />
 ## 🚀 Projects
-[<img src="https://img.shields.io/badge/playground-e5532d?logo=&logoColor=ffa116&style=for-the-badge" height="40" alt="hackerrank logo"  />](https://playground-2e7h.onrender.com/)
-  <img width="12" />
+<!--[<img src="https://img.shields.io/badge/playground-e5532d?logo=&logoColor=ffa116&style=for-the-badge" height="40" alt="hackerrank logo"  />](https://playground-2e7h.onrender.com/)
+  <img width="12" />-->
 [<img src="https://img.shields.io/badge/chatapp-20263f?logo=&logoColor=2ec866&style=for-the-badge" height="40" alt="hackerrank logo"  />](https://chatapp-izc9.onrender.com/)
   <img width="12" />
 [<img src="https://img.shields.io/badge/effect-2dbab3?logo=&logoColor=ffa116&style=for-the-badge" height="40" alt="hackerrank logo"  />](https://effect-kin5.onrender.com/)
