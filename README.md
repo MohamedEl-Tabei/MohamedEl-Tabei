@@ -39,7 +39,7 @@
 <br />
 
 ## 🚀 Projects
-[<img src="https://img.shields.io/badge/shbakapi-c9d1d9?logo=&logoColor=ffa116&style=for-the-badge" height="40" alt="hackerrank logo"  />](https://shbak-api.vercel.app/)
+[<img src="https://img.shields.io/badge/shbakapi-6f2930?logo=&logoColor=ffa116&style=for-the-badge" height="40" alt="hackerrank logo"  />](https://shbak-api.vercel.app/)
   <img width="12" />
 [<img src="https://img.shields.io/badge/playground-e5532d?logo=&logoColor=ffa116&style=for-the-badge" height="40" alt="hackerrank logo"  />](https://playground-2e7h.onrender.com/)
   <img width="12" />
