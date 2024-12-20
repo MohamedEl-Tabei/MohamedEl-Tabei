@@ -54,12 +54,12 @@
 
 <br />
 
-## ⚡ITI Trainee 
+## ⚡ITI Scholarship 
 - <b>Intake:</b> 45
 - <b>Track:</b> Professional Development & BI-Infused CRM
 - <b>Duration:</b> 9-Month Program
 <br/>
-<p align="center"><img src="https://img.shields.io/badge/Program Description-901b21?logo=&logoColor=ffa116&style=for-the-badge" height="40" width=250" alt="hackerrank logo"  /></p>
+<p align="center"> <b>Program Description</b> </p>
 
 <p align="justify">
   The program offers a full scholarship to Egyptian university graduates within five years of graduation, aiming to bridge the skills gap between talent supply and market demands. It collaborates with industry partners to provide over 32 specialized tracks, selecting candidates through a rigorous process with a 10% acceptance rate. Delivered in a hybrid model, the program focuses on creating passionate, committed, and resilient leaders in the ICT sector. 
