@@ -1,10 +1,16 @@
+<h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="38px" height="50px">, I'm Mohamed Eltabei</h1>
+
+<p align="center">
+<a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
+</p>
+<h3 align="center">A fullstack developer from Egypt</h3>
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedEl-Tabei&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=11&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
-
-
 
 
 
@@ -64,6 +70,9 @@
 <p align="justify">
   The program offers a full scholarship to Egyptian university graduates within five years of graduation, aiming to bridge the skills gap between talent supply and market demands. It collaborates with industry partners to provide over 32 specialized tracks, selecting candidates through a rigorous process with a 10% acceptance rate. Delivered in a hybrid model, the program focuses on creating passionate, committed, and resilient leaders in the ICT sector. 
 </p>
+<br/>
+
+<b>More information:</b> https://iti.gov.eg/home
 
 
 
