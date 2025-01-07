@@ -31,6 +31,8 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodeddotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
   <img width="12" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jsquery&logoColor=white&style=for-the-badge" height="40" alt="jquery logo"  />
+  <img width="12" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=readct&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Socket.io-383838?logo=sockdetdotio&logoColor=white&style=for-the-badge" height="40" alt="socketio logo"  />  
