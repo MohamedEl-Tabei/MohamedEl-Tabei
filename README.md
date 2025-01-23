@@ -1,9 +1,9 @@
 <h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="38px" height="50px">, I'm Mohamed Eltabei</h1>
 
 <p align="center">
-<a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
+<!-- <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a> -->
 </p>
-<h3 align="center">A fullstack developer from Egypt</h3>
+<!-- <h3 align="center">A fullstack developer from Egypt</h3> -->
 
 
 <div align="center">
