@@ -45,7 +45,7 @@
 <img width="12" />
 [<img src="https://img.shields.io/badge/Portfolio-314d65?style=for-the-badge&logo=About.me&logoColor=white" height="40" alt="hackerrank logo"  />](https://mohamedeltabei.vercel.app/)
   <img width="12" />
-[<img src="https://img.shields.io/badge/leetcode-383838?logo=Leetcode&logoColor=ffa116&style=for-the-badge" height="40" alt="hackerrank logo"  />](https://leetcode.com/u/mohamedeltab33y/)
+[<img src="https://img.shields.io/badge/leetcode-383838?logo=Leetcode&logoColor=ffa116&style=for-the-badge" height="40" alt="hackerrank logo"  />](https://leetcode.com/u/MohamedEltabei/)
 <!--[<img src="https://img.shields.io/badge/hackerrank-383838?logo=hackerrank&logoColor=2ec866&style=for-the-badge" height="40" alt="hackerrank logo"  />](https://www.hackerrank.com/profile/mohamedeltab33y)
 <img width="12" />-->
 <br />
