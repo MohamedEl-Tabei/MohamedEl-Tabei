@@ -59,7 +59,7 @@
 
 ## 🚀 Projects
 
-[<img src="https://img.shields.io/badge/VidoPlayer-7c7d84?logo=&logoColor=547189&style=for-the-badge" height="40" alt="hackerrank logo"  />](https://iti-typescript-video-player.vercel.app/)
+[<img src="https://img.shields.io/badge/VideoPlayer-7c7d84?logo=&logoColor=547189&style=for-the-badge" height="40" alt="hackerrank logo"  />](https://iti-typescript-video-player.vercel.app/)
 <img width="12" />
 [<img src="https://img.shields.io/badge/Test-264968?logo=&logoColor=547189&style=for-the-badge" height="40" alt="hackerrank logo"  />](https://iti-es-6-exam-system.vercel.app/)
 <img width="12" />
