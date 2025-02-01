@@ -72,6 +72,12 @@
   <img width="12" />-->
 <br />
 
+## 📦 Packages
+
+[<img src="https://img.shields.io/badge/mevp-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="40" alt="npm logo"   />](https://www.npmjs.com/package/me-vp)
+
+<br />
+
 ## ⚡ITI Scholarship 
 - <b>Intake:</b> 45
 - <b>Track:</b> Professional Development & BI-Infused CRM
