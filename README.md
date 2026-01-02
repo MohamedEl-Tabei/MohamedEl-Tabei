@@ -1,19 +1,19 @@
-<h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="38px" height="50px">, I'm Mohamed Eltabei</h1>
+<!-- <h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="38px" height="50px">, I'm Mohamed Eltabei</h1> -->
 
 <p align="center">
 <!-- <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a> -->
 </p>
 <!-- <h3 align="center">A fullstack developer from Egypt</h3> -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=MohamedEl-Tabei&theme=darkhub&column=4&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
+</div> -->
 
 ###
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohamedEl-Tabei&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedEl-Tabei&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=9&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
+</div> -->
 
 ###
 
@@ -52,13 +52,13 @@
 
 [<img src="https://img.shields.io/badge/LinkedIn-0a66c2?logo=Linkedin&logoColor=White&style=for-the-badge" height="40" alt="hackerrank logo"  />](https://www.linkedin.com/in/mohamed-eltabei-226a79196/)
 <img width="12" />
-[<img src="https://img.shields.io/badge/Portfolio-314d65?style=for-the-badge&logo=About.me&logoColor=white" height="40" alt="hackerrank logo"  />](https://mohamedeltabei.vercel.app/)
-  <img width="12" />
 [<img src="https://img.shields.io/badge/leetcode-383838?logo=Leetcode&logoColor=ffa116&style=for-the-badge" height="40" alt="hackerrank logo"  />](https://leetcode.com/u/MohamedEltabei/)
-<!--[<img src="https://img.shields.io/badge/hackerrank-383838?logo=hackerrank&logoColor=2ec866&style=for-the-badge" height="40" alt="hackerrank logo"  />](https://www.hackerrank.com/profile/mohamedeltab33y)
+<!--[<img src="https://img.shields.io/badge/Portfolio-314d65?style=for-the-badge&logo=About.me&logoColor=white" height="40" alt="hackerrank logo"  />](https://mohamedeltabei.vercel.app/)
+<img width="12" />
+[<img src="https://img.shields.io/badge/hackerrank-383838?logo=hackerrank&logoColor=2ec866&style=for-the-badge" height="40" alt="hackerrank logo"  />](https://www.hackerrank.com/profile/mohamedeltab33y)
 <img width="12" />-->
 <br />
-
+<!--
 ## 🚀 Projects
 
 [<img src="https://img.shields.io/badge/VideoPlayer-7c7d84?logo=&logoColor=547189&style=for-the-badge" height="40" alt="hackerrank logo"  />](https://iti-typescript-video-player.vercel.app/)
@@ -70,8 +70,8 @@
 [<img src="https://img.shields.io/badge/chatapp-20263f?logo=&logoColor=2ec866&style=for-the-badge" height="40" alt="hackerrank logo"  />](https://chatapp-izc9.onrender.com/)
   <img width="12" />
 [<img src="https://img.shields.io/badge/effect-2dbab3?logo=&logoColor=ffa116&style=for-the-badge" height="40" alt="hackerrank logo"  />](https://effect-kin5.onrender.com/)
-<!--[<img src="https://img.shields.io/badge/shbakapi-6f2930?logo=&logoColor=ffa116&style=for-the-badge" height="40" alt="hackerrank logo"  />](https://shbak-api.vercel.app/)
-  <img width="12" />-->
+[<img src="https://img.shields.io/badge/shbakapi-6f2930?logo=&logoColor=ffa116&style=for-the-badge" height="40" alt="hackerrank logo"  />](https://shbak-api.vercel.app/)
+  <img width="12" />
 <br />
 
 ## 📦 Packages
@@ -79,20 +79,21 @@
 [<img src="https://img.shields.io/badge/mevp-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="40" alt="npm logo"   />](https://www.npmjs.com/package/me-vp)
 
 <br />
+-->
 
 ## ⚡ITI Scholarship 
 - <b>Intake:</b> 45
 - <b>Track:</b> Professional Development & BI-Infused CRM
 - <b>Duration:</b> 9-Month Program
 <br/>
-<p align="center"> <b>Program Description</b> </p>
+<!-- <p align="center"> <b>Program Description</b> </p> -->
 
-<p align="justify">
+<!-- <p align="justify">
   The program offers a full scholarship to Egyptian university graduates within five years of graduation, aiming to bridge the skills gap between talent supply and market demands. It collaborates with industry partners to provide over 32 specialized tracks, selecting candidates through a rigorous process with a 10% acceptance rate. Delivered in a hybrid model, the program focuses on creating passionate, committed, and resilient leaders in the ICT sector. 
 </p>
 <br/>
 
-<b>More information:</b> https://iti.gov.eg/home
+<b>More information:</b> https://iti.gov.eg/home -->
 
 <p align="center">
 <a href="#"><img src="https://i.ibb.co/RHwXQNJ/Screenshot-2024-12-28-095628.png" alt="track info" ></a>
