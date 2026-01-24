@@ -54,6 +54,8 @@
 <img width="12" />
 [<img src="https://img.shields.io/badge/Portfolio-7fe651?style=for-the-badge&logo=Abosut.me&logoColor=7fe651" height="40" alt="hackerrank logo"  />](https://mohamed-eltabei.vercel.app/)
 <img width="12" />
+[<img src="https://img.shields.io/badge/CV-gray?logo=Leetcdode&logoColor=ffa116&style=for-the-badge" height="40" alt="hackerrank logo"  />](https://drive.google.com/file/d/1qV_ISnk8xFEKbHWMnm1W16kjqmOPVGzA/view?usp=drive_link)
+<img width="12" />
 [<img src="https://img.shields.io/badge/leetcode-383838?logo=Leetcode&logoColor=ffa116&style=for-the-badge" height="40" alt="hackerrank logo"  />](https://leetcode.com/u/MohamedEltabei/)
 
 <!--<img width="12" />
